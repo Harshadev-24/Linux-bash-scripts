@@ -1,0 +1,20 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.code-workspace
